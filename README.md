@@ -15,7 +15,7 @@ P.S., Writing the documentation took longer than writing the code.
 
 
 ## notes
-This repo offers three useful auxillary-features that an aspiring pythonista may not be aware of:
+This repo offers three useful auxillary-features that an aspiring Pythonista may not be aware of:
 * A strategy for accumulating the number of duplicates contained within an iterable:
 ```
 with open('words.txt') as f:
