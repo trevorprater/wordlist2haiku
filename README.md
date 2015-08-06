@@ -13,31 +13,47 @@ in the english language to the number of syllables contained in that word.
 
 ## Examples
 
+*****************************************************
 -life data without
+
 -world power vibration tone
+
 -better language room
 
+*****************************************************
 -great put work story
+
 -user may current space ways
+
 -state ai share test
-
+*****************************************************
 -science safety place
+
 -designed analysis see
+
 -new well different
-
+*****************************************************
 -solar circuit found
+
 -perception broadcast input
+
 -learn chose often first
-
+*****************************************************
 -building city sense
+
 -error really test blue
+
 -iteration rest
-
+*****************************************************
 -level like way bed
+
 -map bed user hand one code
+
 -original right
-
+*****************************************************
 -show created true
--kiosk form outside background
--needs still designed head
 
+-kiosk form outside background
+
+-needs still designed head
+*****************************************************
