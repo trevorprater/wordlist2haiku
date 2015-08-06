@@ -1,6 +1,7 @@
 # wordlist2haiku
 After getting dumped, I scraped all of the text from my lover's blog and 
 generated some haikus from her most commonly used words. Sad, right?
+
 It was, in some ways, a failed attempt to win her back. Regardless of the outcome,
 I hope that someone out there will find this useful one day.
 
