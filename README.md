@@ -42,20 +42,24 @@ def clean_word(word):
 
 
 ## Examples
-
 *****************************************************
-life data without
+vibration data
 
-world power vibration tone
+text home blue battery turn
 
-better language room
-
+physical file want
 *****************************************************
-great put work story
+time visual tool
 
-user may current space ways
+humanity one tool come
 
-state ai share test
+travel feedback put
+*****************************************************
+class media free
+
+public know great true via
+
+rest ideally
 *****************************************************
 science safety place
 
@@ -63,11 +67,11 @@ designed analysis see
 
 new well different
 *****************************************************
-solar circuit found
+experiential
 
-perception broadcast input
+access battery red come
 
-learn chose often first
+ways another learn
 *****************************************************
 building city sense
 
@@ -75,15 +79,21 @@ error really test blue
 
 iteration rest
 *****************************************************
-level like way bed
+character show screen
 
-map bed user hand one code
+individual city
 
-original right
+scene aspect also
 *****************************************************
-show created true
+time infrastructure
 
-kiosk form outside background
+turn error planning string plan
 
-needs still designed head
+public address head
+*****************************************************
+uncle thinking made
+
+ideally another
+
+exactly system
 *****************************************************
