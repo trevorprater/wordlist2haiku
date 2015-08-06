@@ -43,6 +43,12 @@ def clean_word(word):
 
 ## Examples
 *****************************************************
+file breakfast feedback
+
+state how long ai one rest
+
+current culture mind
+*****************************************************
 vibration data
 
 text home blue battery turn
