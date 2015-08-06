@@ -39,7 +39,7 @@ def clean_word(word):
   ```
 
 
-## Examples
+## examples
 *****************************************************
 file breakfast feedback
 
