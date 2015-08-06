@@ -8,7 +8,7 @@ This code will accept a list of words and generate n haikus from it. It contains
 
 I modeled this incredibly brief project with a decoupled, UNIX-like approach in mind. Mostly inspired by this [blogpost](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data) that praises the benefits of such a system. 
 
-p.s., Writing the documentation took longer than writing the code.
+P.S., Writing the documentation took longer than writing the code.
 
 ## usage
 `python words.py | python syl_cnt.py | python haiku.py`
