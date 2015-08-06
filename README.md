@@ -44,46 +44,46 @@ def clean_word(word):
 ## Examples
 
 *****************************************************
--life data without
+life data without
 
--world power vibration tone
+world power vibration tone
 
--better language room
+better language room
 
 *****************************************************
--great put work story
+great put work story
 
--user may current space ways
+user may current space ways
 
--state ai share test
+state ai share test
 *****************************************************
--science safety place
+science safety place
 
--designed analysis see
+designed analysis see
 
--new well different
+new well different
 *****************************************************
--solar circuit found
+solar circuit found
 
--perception broadcast input
+perception broadcast input
 
--learn chose often first
+learn chose often first
 *****************************************************
--building city sense
+building city sense
 
--error really test blue
+error really test blue
 
--iteration rest
+iteration rest
 *****************************************************
--level like way bed
+level like way bed
 
--map bed user hand one code
+map bed user hand one code
 
--original right
+original right
 *****************************************************
--show created true
+show created true
 
--kiosk form outside background
+kiosk form outside background
 
--needs still designed head
+needs still designed head
 *****************************************************
