@@ -1,7 +1,7 @@
 # wordlist2haiku
 After getting dumped, I scraped all of the text from my lover's blog and 
 generated some haikus from her most commonly used words. Sad, right?
-I think it was, in some ways, a failed attempt to win her back. Anyways,
+It was, in some ways, a failed attempt to win her back. Anyways,
 I hope that someone out there will find this useful one day.
 
 This code will accept a list of words and generate n haikus from it. It contains a JSON file that maps every word in the English language to the number of vowels contained within a given word.
